@@ -73,10 +73,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+<h3 align="left">🔥 My Stats</h3>
 
-### 📊 My GitHub Stats
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=naghamalsaho&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=naghamalsaho&show_icons=true&theme=tokyonight" height="150" />
 
-###
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naghamalsaho&layout=compact&theme=tokyonight" height="150" />
+
+</div>
