@@ -75,6 +75,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :https://github.com/naghamalsaho</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naghamalsaho&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naghamalsaho&layout=compact&theme=tokyonight" />
+</p>
 
 ###
