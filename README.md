@@ -75,6 +75,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : naghamalsaho</h3>
+### 📊 My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naghamalsaho&show_icons=true&theme=radical)
 
 ###
