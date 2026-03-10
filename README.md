@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://www.shutterstock.com/image-photo/rear-view-creative-female-freelancer-600nw-602441060.jpg"  />
 </div>
 
 ###
